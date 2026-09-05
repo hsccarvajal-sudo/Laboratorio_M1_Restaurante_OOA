@@ -21,7 +21,24 @@ El negocio modelado es **"La Cocina de OOA"**, un restaurante familiar que actua
 
 ##  Estructura del Repositorio
 /Laboratorio_M1_Restaurante_OOA/
-
+```
+/Lab3_Bancario_HannerContreras/
+├── README.md
+├── cpp/
+│   └── SistemaBancarioLegacy.cpp
+├── java/
+│   └── src/
+│       └── bancario/
+│           ├── CuentaBancaria.java
+│           ├── CuentaAhorros.java
+│           ├── CuentaCorriente.java
+│           ├── SaldoInsuficienteException.java
+│           ├── RegistroAuditoriaBancaria.java
+│           └── Main.java
+├── docs/
+│   └── Informe_Lab3_HannerContreras.pdf
+└── auditoria.log  (generado al ejecutar)
+```
 ---
 
 ##  Contenido del Informe (Word)
