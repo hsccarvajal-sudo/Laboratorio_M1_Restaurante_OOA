@@ -20,9 +20,10 @@ El negocio modelado es **"La Cocina de OOA"**, un restaurante familiar que actua
 ---
 
 ##  Estructura del Repositorio
-Laboratorio_M1_Restaurante_OOA/
-├── Laboratorio_M1_HannerContreras_160005312.docx   # Informe completo en Word
-└── Diagramas_CDU/                                  # Archivos fuente de los diagramas (Draw.io)
+/Laboratorio_M1_Restaurante_OOA/
+├── README.md
+├── Laboratorio_M1_HannerContreras_160005312.docx
+└── Diagramas_CDU/
     ├── CDU_General.drawio
     ├── CDU_TomarPedido.drawio
     ├── CDU_ConsultarDisponibilidad.drawio
